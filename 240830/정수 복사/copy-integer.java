@@ -1,0 +1,13 @@
+public class Main {
+    public static void main(String[] args) {
+        // 여기에 코드를 작성해주세요.
+        int a = 3;
+        int b = 4;
+        b = a;
+        System.out.print(a);
+        System.out.print(" ");
+        System.out.print(b);
+        System.out.print("\n");
+        System.out.println(a*b);
+    }
+}
