@@ -13,6 +13,11 @@ public class Main {
             System.out.println(a);
             System.out.println("plus");
         }
+        else {
+            System.out.println(a);
+            System.out.println("zero");
+        }
+
         
         
     }
