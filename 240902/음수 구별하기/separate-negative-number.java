@@ -11,11 +11,9 @@ public class Main {
         }
         else if(a > 0){
             System.out.println(a);
-            System.out.println("plus");
         }
         else {
             System.out.println(a);
-            System.out.println("zero");
         }
 
         
