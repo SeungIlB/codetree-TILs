@@ -9,6 +9,10 @@ public class Main {
             System.out.println(a);
             System.out.println("minus");
         }
+        else if(a > 0){
+            System.out.println(a);
+            System.out.println("plus");
+        }
         
         
     }
