@@ -5,7 +5,7 @@ public class Main {
         // 여기에 코드를 작성해주세요.
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
-        if(a >= 10 && a < 20){
+        if(a >= 10 && a <= 20){
             System.out.println("yes");
         }
         else{
